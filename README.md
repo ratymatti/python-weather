@@ -27,7 +27,7 @@ A simple Python console application that allows you to search for the current we
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/ratymatti/python-weather.git
    cd weather_app
 
 
@@ -35,13 +35,16 @@ A simple Python console application that allows you to search for the current we
 
     ```bash
     python -m venv venv
+    ```
 
     Activate it:
 
     Windows:
     ```bash
     venv\Scripts\activate
-
+    ```
     Mac/Linux:
 
-    ```bash  
+    ```bash
+    source venv/bin/activate
+    ```  
