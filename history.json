@@ -1,0 +1,12 @@
+[
+    {
+        "city": "Kuusamo",
+        "temperature": 19.02,
+        "condition": "few clouds"
+    },
+    {
+        "city": "Rovaniemi",
+        "temperature": 17.67,
+        "condition": "broken clouds"
+    }
+]
